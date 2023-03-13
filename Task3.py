@@ -1,3 +1,12 @@
+# Name: Task3
+# Author: Kevin Barath
+# Date Created: January 30th, 2023
+# Date Last Modified: February 6th, 2023
+
+# Purpose:
+# asks user for username given the specific parameters of between 2-20 characters with atleast one digit present in the name.
+#
+
 import sys
 
 
